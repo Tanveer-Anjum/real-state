@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.blue-btn{
+  background: linear-gradient(90deg, rgba(41,169,195,1) 0%, rgba(41,169,195,1) 9%, rgba(51,41,195,1) 100%);
+}
+.black {
+  background: linear-gradient(90deg, rgba(92,92,101,0.9668242296918768) 0%, rgba(54,54,59,1) 18%, rgba(28,28,30,1) 70%, rgba(101,97,97,1) 89%);
+}
+.blue1-bg{
+  background: linear-gradient(90deg, rgba(134,134,228,1) 2%, rgba(124,130,222,1) 5%, rgba(108,125,212,1) 22%, rgba(24,98,161,1) 82%);
+}
